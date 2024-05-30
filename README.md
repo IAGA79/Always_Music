@@ -1,4 +1,4 @@
-> [!EJECUTAR]
+> [!IMPORTANT]
 > 
 > * npm install.
 > * node server.js consulta.
@@ -8,7 +8,7 @@
 > * node server.js eliminar - '12.222.222-2'
 > 
 
-> [!PERMITIR]
+> [!TIP]
 > Consultar, crear, consultar por rut, editar y eliminar.
 
 
