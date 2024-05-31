@@ -9,6 +9,7 @@
 > 
 
 > [!TIP]
+> Permitir:
 > Consultar, crear, consultar por rut, editar y eliminar.
 
 
