@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> 
+>  Ejecutar
 > * npm install.
 > * node server.js consulta.
 > * node server.js nuevo 'Frank' '12.222.222-2' 'Java' 'Principiante'
